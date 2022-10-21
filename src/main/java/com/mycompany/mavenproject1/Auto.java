@@ -18,7 +18,7 @@ public class Auto {
     double precio;
     int cilindrajeMotor;
     Propietario owner;
-
+LugarMatriculacion matricula;
     public String mostrarInfo() {
         var retorno = " El auto tiene placa: " + this.placa + " es de marca: "
                 + this.marca + ". El propietario es: " + this.owner.nombre

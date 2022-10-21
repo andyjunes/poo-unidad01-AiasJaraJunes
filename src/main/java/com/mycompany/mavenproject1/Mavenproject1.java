@@ -60,8 +60,6 @@ public class Mavenproject1 {
         
         System.out.println(auto1.mostrarInfo());
         System.out.println(auto2.mostrarInfo());
-        System.out.println(LugarMatriculacion.mostrarInfo());
-        System.out.println(LugarMatriculacion1.mostrarInfo());
 
         
         

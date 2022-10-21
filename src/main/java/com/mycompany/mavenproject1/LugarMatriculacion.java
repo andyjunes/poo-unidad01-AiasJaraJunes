@@ -13,7 +13,7 @@ public class LugarMatriculacion {
     String provincia;
     String ciudad;
     String telefono;
-    Propietario matricula;
+  
     
     
     public String mostraInfo(){
